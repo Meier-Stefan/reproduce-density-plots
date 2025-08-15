@@ -24,13 +24,3 @@ build-backend = "uv_build"
 dev = [
     "ipykernel>=6.30.1",
 ]
-
-
-==> Next steps:
-- Run these commands in your terminal to add Homebrew to your PATH:
-    echo >> /Users/k2366861/.zprofile
-    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/w2366861/.zprofile
-    eval "$(/opt/homebrew/bin/brew shellenv)"
-- Run brew help to get started
-- Further documentation:
-    https://docs.brew.sh
