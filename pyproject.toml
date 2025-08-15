@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-yang-et-al-2022 = "yang_et_al_2022:main"
+neurondensityplots = "neurondensityplots:main"
 
 [build-system]
 requires = ["uv_build>=0.8.10,<0.9.0"]
